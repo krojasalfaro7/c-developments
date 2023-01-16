@@ -1,0 +1,1 @@
+nombre_tr[i]= "ana";
